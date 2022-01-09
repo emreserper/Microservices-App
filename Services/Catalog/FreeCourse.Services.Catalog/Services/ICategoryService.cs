@@ -11,13 +11,13 @@ using System.Threading.Tasks;
 
 namespace FreeCourse.Services.Catalog.Services
 {
-    internal class CategoryService
+    internal class ICategoryService
     {
         private readonly IMongoCollection<Category> _categoryCollection;
 
         private readonly IMapper _mapper;
 
-        public CategoryService(IMapper mapper, IDatabaseSettings databaseSettings)
+        public ICategoryService(IMapper mapper, IDatabaseSettings databaseSettings)
         {
             var client = new MongoClient(databaseSettings.ConnectionString);
 
