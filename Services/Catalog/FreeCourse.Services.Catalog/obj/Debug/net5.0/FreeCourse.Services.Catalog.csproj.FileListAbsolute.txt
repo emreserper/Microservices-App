@@ -49,3 +49,5 @@ C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.C
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
