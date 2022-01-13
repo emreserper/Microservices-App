@@ -6,3 +6,4 @@ C:\Users\Emres\source\repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\net
 C:\Users\Emres\source\repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Emres\source\repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
 C:\Users\Emres\source\repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Users\Emres\source\repos\Microservices\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.AssemblyReference.cache
