@@ -135,3 +135,5 @@ C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServ
 C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServer\obj\Debug\netcoreapp3.1\FreeCourse.IdentityServer.csproj.AssemblyReference.cache
+C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServer\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\Emres\source\repos\Microservices\IdentityServer\FreeCourse.IdentityServer\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
