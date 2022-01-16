@@ -51,3 +51,10 @@ C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.C
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
 C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emres\source\repos\Microservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
