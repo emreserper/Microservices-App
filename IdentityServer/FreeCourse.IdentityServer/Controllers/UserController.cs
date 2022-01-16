@@ -11,5 +11,6 @@ namespace FreeCourse.IdentityServer.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+
     }
 }
