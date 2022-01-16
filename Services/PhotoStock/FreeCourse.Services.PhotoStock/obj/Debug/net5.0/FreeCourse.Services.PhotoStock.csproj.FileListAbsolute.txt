@@ -27,3 +27,12 @@ C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Service
 C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net5.0\ref\FreeCourse.Services.PhotoStock.dll
 C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net5.0\FreeCourse.Services.PhotoStock.pdb
 C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\obj\Debug\net5.0\FreeCourse.Services.PhotoStock.genruntimeconfig.cache
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\FreeCourse.Shared.dll
+C:\Users\Emres\source\repos\Microservices\Services\PhotoStock\FreeCourse.Services.PhotoStock\bin\Debug\net5.0\FreeCourse.Shared.pdb
