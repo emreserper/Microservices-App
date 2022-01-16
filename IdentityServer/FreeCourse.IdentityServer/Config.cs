@@ -18,7 +18,9 @@ namespace FreeCourse.IdentityServer
         public static IEnumerable<ApiScope> ApiScopes =>
             new ApiScope[]
             {
-              
+                new ApiScope("catalog_fullpermission","Full permission for Catalog API"),
+                new ApiScope("photo_fullpermission","Full permission for Photo Stock API"),
+                new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
         public static IEnumerable<Client> Clients =>
